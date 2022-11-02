@@ -10,7 +10,7 @@
     </head>
 
     <body>
-
+        <h1>Тут какая-то мелкая правка. Теперь смотри, как реагирует гит.</h1>
         <form action="./form.php" method="post">
             <input type="text" placeholder="Имя" name="name"/>
             <!-- <input type="text" placeholder="Фамилия" name="surname"/>
